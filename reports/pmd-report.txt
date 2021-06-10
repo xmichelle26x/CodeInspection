@@ -1,0 +1,102 @@
+src/main/java/labcodeinspection/Email.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/labcodeinspection/Email.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/labcodeinspection/Email.java:5:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/labcodeinspection/Email.java:5:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/labcodeinspection/Email.java:5:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/labcodeinspection/Email.java:5:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/labcodeinspection/Email.java:5:	ImmutableField:	ImmutableField: Private field 'm_firstName' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/labcodeinspection/Email.java:5:	ImmutableField:	ImmutableField: Private field 'm_firstName' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/labcodeinspection/Email.java:6:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/labcodeinspection/Email.java:6:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/labcodeinspection/Email.java:6:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/labcodeinspection/Email.java:6:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/labcodeinspection/Email.java:6:	ImmutableField:	ImmutableField: Private field 'm_lastName' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/labcodeinspection/Email.java:6:	ImmutableField:	ImmutableField: Private field 'm_lastName' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/labcodeinspection/Email.java:7:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/labcodeinspection/Email.java:7:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/labcodeinspection/Email.java:7:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/labcodeinspection/Email.java:7:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/labcodeinspection/Email.java:7:	RedundantFieldInitializer:	RedundantFieldInitializer: Avoid using redundant field initializer for 'password'
+src/main/java/labcodeinspection/Email.java:7:	RedundantFieldInitializer:	RedundantFieldInitializer: Avoid using redundant field initializer for 'password'
+src/main/java/labcodeinspection/Email.java:8:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/labcodeinspection/Email.java:8:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/labcodeinspection/Email.java:8:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/labcodeinspection/Email.java:8:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/labcodeinspection/Email.java:9:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/labcodeinspection/Email.java:9:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/labcodeinspection/Email.java:9:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/labcodeinspection/Email.java:9:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/labcodeinspection/Email.java:9:	ImmutableField:	ImmutableField: Private field 'defaultpasswordLength' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/labcodeinspection/Email.java:9:	ImmutableField:	ImmutableField: Private field 'defaultpasswordLength' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/labcodeinspection/Email.java:9:	LongVariable:	LongVariable: Avoid excessively long variable names like defaultpasswordLength
+src/main/java/labcodeinspection/Email.java:9:	LongVariable:	LongVariable: Avoid excessively long variable names like defaultpasswordLength
+src/main/java/labcodeinspection/Email.java:10:	AvoidFieldNameMatchingTypeName:	AvoidFieldNameMatchingTypeName: It is somewhat confusing to have a field name matching the declaring class name
+src/main/java/labcodeinspection/Email.java:10:	AvoidFieldNameMatchingTypeName:	AvoidFieldNameMatchingTypeName: It is somewhat confusing to have a field name matching the declaring class name
+src/main/java/labcodeinspection/Email.java:10:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/labcodeinspection/Email.java:10:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/labcodeinspection/Email.java:10:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/labcodeinspection/Email.java:10:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/labcodeinspection/Email.java:12:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/labcodeinspection/Email.java:12:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/labcodeinspection/Email.java:12:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'firstName' is not assigned and could be declared final
+src/main/java/labcodeinspection/Email.java:12:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'firstName' is not assigned and could be declared final
+src/main/java/labcodeinspection/Email.java:12:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'lastName' is not assigned and could be declared final
+src/main/java/labcodeinspection/Email.java:12:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'lastName' is not assigned and could be declared final
+src/main/java/labcodeinspection/Email.java:17:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/labcodeinspection/Email.java:17:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/labcodeinspection/Email.java:18:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/main/java/labcodeinspection/Email.java:18:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/main/java/labcodeinspection/Email.java:19:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/main/java/labcodeinspection/Email.java:19:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/main/java/labcodeinspection/Email.java:22:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/labcodeinspection/Email.java:22:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/labcodeinspection/Email.java:22:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'depChoice' is not assigned and could be declared final
+src/main/java/labcodeinspection/Email.java:22:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'depChoice' is not assigned and could be declared final
+src/main/java/labcodeinspection/Email.java:23:	SwitchStmtsShouldHaveDefault:	SwitchStmtsShouldHaveDefault: Switch statements should be exhaustive, add a default case (or missing enum branches)
+src/main/java/labcodeinspection/Email.java:23:	SwitchStmtsShouldHaveDefault:	SwitchStmtsShouldHaveDefault: Switch statements should be exhaustive, add a default case (or missing enum branches)
+src/main/java/labcodeinspection/Email.java:36:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'length' is not assigned and could be declared final
+src/main/java/labcodeinspection/Email.java:36:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'length' is not assigned and could be declared final
+src/main/java/labcodeinspection/Email.java:37:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'set' (lines '37'-'44').
+src/main/java/labcodeinspection/Email.java:37:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'set' (lines '37'-'44').
+src/main/java/labcodeinspection/Email.java:37:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'set' could be declared final
+src/main/java/labcodeinspection/Email.java:37:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'set' could be declared final
+src/main/java/labcodeinspection/Email.java:38:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'password' (lines '38'-'41').
+src/main/java/labcodeinspection/Email.java:38:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'password' (lines '38'-'41').
+src/main/java/labcodeinspection/Email.java:40:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rand' could be declared final
+src/main/java/labcodeinspection/Email.java:40:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rand' could be declared final
+src/main/java/labcodeinspection/Email.java:41:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'password' (lines '41'-'41').
+src/main/java/labcodeinspection/Email.java:41:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'password' (lines '41'-'41').
+src/main/java/labcodeinspection/Email.java:46:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/labcodeinspection/Email.java:46:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/labcodeinspection/Email.java:48:	UseLocaleWithCaseConversions:	UseLocaleWithCaseConversions: When doing a String.toLowerCase()/toUpperCase() call, use a Locale
+src/main/java/labcodeinspection/Email.java:48:	UseLocaleWithCaseConversions:	UseLocaleWithCaseConversions: When doing a String.toLowerCase()/toUpperCase() call, use a Locale
+src/main/java/labcodeinspection/Email.java:48:	UseLocaleWithCaseConversions:	UseLocaleWithCaseConversions: When doing a String.toLowerCase()/toUpperCase() call, use a Locale
+src/main/java/labcodeinspection/Email.java:48:	UseLocaleWithCaseConversions:	UseLocaleWithCaseConversions: When doing a String.toLowerCase()/toUpperCase() call, use a Locale
+src/main/java/labcodeinspection/EmailApp.java:5:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/labcodeinspection/EmailApp.java:5:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/labcodeinspection/EmailApp.java:5:	UseUtilityClass:	UseUtilityClass: All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/main/java/labcodeinspection/EmailApp.java:5:	UseUtilityClass:	UseUtilityClass: All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/main/java/labcodeinspection/EmailApp.java:7:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/labcodeinspection/EmailApp.java:7:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/labcodeinspection/EmailApp.java:7:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/main/java/labcodeinspection/EmailApp.java:7:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/main/java/labcodeinspection/EmailApp.java:8:	CloseResource:	CloseResource: Ensure that resources like this InputStream object are closed after use
+src/main/java/labcodeinspection/EmailApp.java:8:	CloseResource:	CloseResource: Ensure that resources like this InputStream object are closed after use
+src/main/java/labcodeinspection/EmailApp.java:8:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'sc' could be declared final
+src/main/java/labcodeinspection/EmailApp.java:8:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'sc' could be declared final
+src/main/java/labcodeinspection/EmailApp.java:8:	ShortVariable:	ShortVariable: Avoid variables with short names like sc
+src/main/java/labcodeinspection/EmailApp.java:8:	ShortVariable:	ShortVariable: Avoid variables with short names like sc
+src/main/java/labcodeinspection/EmailApp.java:10:	SystemPrintln:	SystemPrintln: System.out.print is used
+src/main/java/labcodeinspection/EmailApp.java:10:	SystemPrintln:	SystemPrintln: System.out.print is used
+src/main/java/labcodeinspection/EmailApp.java:11:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'firstName' could be declared final
+src/main/java/labcodeinspection/EmailApp.java:11:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'firstName' could be declared final
+src/main/java/labcodeinspection/EmailApp.java:13:	SystemPrintln:	SystemPrintln: System.out.print is used
+src/main/java/labcodeinspection/EmailApp.java:13:	SystemPrintln:	SystemPrintln: System.out.print is used
+src/main/java/labcodeinspection/EmailApp.java:14:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'lastName' could be declared final
+src/main/java/labcodeinspection/EmailApp.java:14:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'lastName' could be declared final
+src/main/java/labcodeinspection/EmailApp.java:16:	SystemPrintln:	SystemPrintln: System.out.print is used
+src/main/java/labcodeinspection/EmailApp.java:16:	SystemPrintln:	SystemPrintln: System.out.print is used
+src/main/java/labcodeinspection/EmailApp.java:18:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'depChoice' could be declared final
+src/main/java/labcodeinspection/EmailApp.java:18:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'depChoice' could be declared final
+src/main/java/labcodeinspection/EmailApp.java:21:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'email' could be declared final
+src/main/java/labcodeinspection/EmailApp.java:21:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'email' could be declared final
